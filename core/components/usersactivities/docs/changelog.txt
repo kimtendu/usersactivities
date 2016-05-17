@@ -1,0 +1,4 @@
+Users Activities 0.0.1 beta
+====================================
+- First release
+- Added changelog.txt

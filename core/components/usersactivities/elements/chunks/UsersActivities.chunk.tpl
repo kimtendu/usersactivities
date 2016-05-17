@@ -1,0 +1,1 @@
+[[+id]] - [[+regdate]] - [[+lastactivedate]]<br>
